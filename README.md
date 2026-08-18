@@ -49,7 +49,7 @@ Banking-Analytics/
 ├── PowerBI/
 │   ├── Banking_Dashboard.pbix
 │   └── Banking_Dashboard_2.pbix
-│
+│-Visuals
 ├── Dataset/
 │   └── banking-clients.csv
 └── requirements.txt
